@@ -68,7 +68,8 @@
 
 ### AJAX： [台北市 Youbike 租借即時動態](https://ying-hsuan.github.io/Taipei-Youbike/)
 - 串接台北市 Youbike Open Data API
-- 串接 Google Map API，有地圖連結功能
+- 串接 Google Map API
+- 可連結到 Google Map 該站點位置 
 - LocalStorage 可儲存及刪除常用清單
 
 ### [BMI計算機](https://ying-hsuan.github.io/BMI-calc/)

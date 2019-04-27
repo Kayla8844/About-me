@@ -71,11 +71,11 @@
 - 串接 Google Map API，有地圖連結功能
 - LocalStorage 可儲存及刪除常用清單
 
-### 練習： [BMI計算機](https://ying-hsuan.github.io/BMI-calc/)
+### [BMI計算機](https://ying-hsuan.github.io/BMI-calc/)
 - 表單驗證
 - LocalStorage 儲存及刪除資料
 
-### 練習： [野草披薩](https://ying-hsuan.github.io/Pizza-Shop/)
+### [野草披薩](https://ying-hsuan.github.io/Pizza-Shop/)
 - 串接 Google Map API
 - 價格試算
 

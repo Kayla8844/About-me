@@ -80,7 +80,7 @@
 - 串接 Google Map API
 - 價格試算
 
-### 個人網站： [Ying-Hsuan's Web](https://ying-hsuan.github.io/Pizza-Shop/)
+### 個人網站： [Ying-Hsuan's Web](https://ying-hsuan.github.io/Ying-Hsuan-s-Web/)
 - SCSS 管理網頁版型
 - 三種裝置客製化設計 : 時間軸(學經歷部分)設計
 - 微動畫設計

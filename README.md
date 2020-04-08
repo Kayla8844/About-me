@@ -1,8 +1,8 @@
-# Ying-Hsuan Lee
+# Kayla
 - Location： New Taipei
 - E-mail： sheep8844@gmail.com
 - 學歷： 世新大學 - 數位多媒體設計學系 / 動畫組
-- 個人網站： [Ying-Hsuan's Web](https://ying-hsuan.github.io/Ying-Hsuan-s-Web/)
+- 個人網站： [Kayla's Web](https://ying-hsuan.github.io/Ying-Hsuan-s-Web/)
 
 ---------------------------
 
@@ -30,16 +30,11 @@
 - Bootstrap 熟悉響應式網格系統、部分元件。
 
 ### SCSS
-- 基礎掌握 Variables、Nesting、Import、Mixins、Function
+- 基礎掌握 Variables、Nesting、Import、Mixins、Function、for loop
 
 ### Git / GitHub 
 - Git 基礎使用，了解分支與衝突
 - GitHub Pages
-
-### Others 
-- 動畫技能：
-    - After Effects： 2D 動畫設計
-    - Photoshop、Illustrator： 平面設計 
 
 ---------------------------
 
@@ -60,7 +55,7 @@
 ## 作品
 
 ### Vue.js 作品：[手錶購物網](https://ying-hsuan.github.io/Watches-Shop/#/)
-- 前後端分離 - Vue.js + RESTful API 設計
+- 前後端分離 - 僅做前端部分，API 使用線上課程提供的
 - SPA架構
 - Vue-Cli3、Vue-router
 - 後台管理系統
@@ -90,10 +85,10 @@
 
 ## 未來規劃
 
-- 深入研究 Vue.js
-- 進階 JavaScript 原生語言
-- 研究 node.js
-- 研究 canvas
+- 深入 Vue.js
+- 深入 JavaScript 原理
+- node.js
+- canvas
 - 資料結構、演算法
 
 ---------------------------

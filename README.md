@@ -2,7 +2,7 @@
 - Location： New Taipei
 - E-mail： sheep8844@gmail.com
 - 學歷： 世新大學 - 數位多媒體設計學系 / 動畫組
-- 個人網站： [Kayla's Web](https://ying-hsuan.github.io/Ying-Hsuan-s-Web/)
+- 個人網站： [Kayla's Web](https://kayla8844.github.io/Kayla-s-Web/)
 
 ---------------------------
 
@@ -10,8 +10,6 @@
 
 ### Framework: Vue.js
 - 相關作品： [手錶購物網](https://ying-hsuan.github.io/Watches-Shop/#/)
-- 使用 Vue.js 框架建構
-- SPA 網頁應用
 - 相關技術： Vue Cli3、Vue-router、Vuex
 
 ### JSON / Ajax / 介接第三方 API 
@@ -20,7 +18,7 @@
 - 熟悉 RESTful API 的串接
 
 ### JavaSctipt / jQuery
-- 相關作品： [野草披薩店](https://ying-hsuan.github.io/Pizza-Shop/)、[BMI 計算機](https://ying-hsuan.github.io/BMI-calc/)
+- 相關作品： [野草披薩店](https://ying-hsuan.github.io/Pizza-Shop/)
 - 了解 JavaScript 基本語法 及 ES6 語法
 - jQuery 設計網頁動畫效果，了解如何使用第三方套件
 
@@ -43,7 +41,7 @@
 
 - 廣告特效 / 企業形象宣傳片   
     - Motion Graphic、粒子系統、光特效
-    - 主要參與 2D 風格，偶有使用 3D 技術
+    - 主要參與 2D 動畫，偶有使用 3D 技術
     - 多人團隊分工，符合需求期待
 - 兒童教育動畫
     - 獨立分鏡設計、角色動態設計、後製
@@ -67,15 +65,11 @@
 - 可連結到 Google Map 該站點位置 
 - LocalStorage 可儲存及刪除常用清單
 
-### [BMI計算機](https://ying-hsuan.github.io/BMI-calc/)
-- 表單驗證
-- LocalStorage 儲存及刪除資料
-
 ### [野草披薩](https://ying-hsuan.github.io/Pizza-Shop/)
 - 串接 Google Map API
 - 價格試算
 
-### 個人網站： [Ying-Hsuan's Web](https://ying-hsuan.github.io/Ying-Hsuan-s-Web/)
+### 個人網站： [Ying-Hsuan's Web](https://kayla8844.github.io/Kayla-s-Web/)
 - SCSS 管理網頁版型
 - 三種裝置客製化設計 : 時間軸(學經歷部分)設計
 - 微動畫設計

@@ -9,16 +9,16 @@
 ## 前端技能
 
 ### Framework: Vue.js
-- 相關作品： [手錶購物網](https://ying-hsuan.github.io/Watches-Shop/#/)
+- 相關作品： [手錶購物網](https://kayla8844.github.io/Watches-Shop/)
 - 相關技術： Vue Cli3、Vue-router、Vuex
 
 ### JSON / Ajax / 介接第三方 API 
-- 相關作品： [台北市 Youbike 租借即時動態](https://ying-hsuan.github.io/Taipei-Youbike/)
+- 相關作品： [台北市 Youbike 租借即時動態](https://kayla8844.github.io/Taipei-Youbike/)
 - 熟悉前端 Ajax 資料的串接
 - 熟悉 RESTful API 的串接
 
 ### JavaSctipt / jQuery
-- 相關作品： [野草披薩店](https://ying-hsuan.github.io/Pizza-Shop/)
+- 相關作品： [野草披薩店](https://kayla8844.github.io/Pizza-Shop/)
 - 了解 JavaScript 基本語法 及 ES6 語法
 - jQuery 設計網頁動畫效果，了解如何使用第三方套件
 
@@ -52,20 +52,20 @@
 
 ## 作品
 
-### Vue.js 作品：[手錶購物網](https://ying-hsuan.github.io/Watches-Shop/#/)
+### Vue.js 作品：[手錶購物網](https://kayla8844.github.io/Watches-Shop/)
 - 前後端分離 - 僅做前端部分，API 使用線上課程提供的
 - SPA架構
 - Vue-Cli3、Vue-router
 - 後台管理系統
 - SCSS、Bootstrap、RWD
 
-### AJAX： [台北市 Youbike 租借即時動態](https://ying-hsuan.github.io/Taipei-Youbike/)
+### AJAX： [台北市 Youbike 租借即時動態](https://kayla8844.github.io/Taipei-Youbike/)
 - 串接台北市 Youbike Open Data API
 - 串接 Google Map API
 - 可連結到 Google Map 該站點位置 
 - LocalStorage 可儲存及刪除常用清單
 
-### [野草披薩](https://ying-hsuan.github.io/Pizza-Shop/)
+### [野草披薩](https://kayla8844.github.io/Pizza-Shop/)
 - 串接 Google Map API
 - 價格試算
 
